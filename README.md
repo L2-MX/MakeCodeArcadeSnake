@@ -7,7 +7,7 @@ A Snake game developed in Microsoft MakeCode Arcade during my sophomore year of 
 The game builds on the classic Snake concept, with selectable map sizes, randomly spawned food, and a growing tail. This project was an early opportunity to explore game logic, player controls, collision detection, and tile-based environments.
 ## Gameplay
 
-![Snake game gameplay] <img width="1849" height="889" alt="image" src="https://github.com/user-attachments/assets/32fa34c5-18ce-4026-b267-02317b8e05b3" />
+<img width="1849" height="889" alt="image" src="https://github.com/user-attachments/assets/32fa34c5-18ce-4026-b267-02317b8e05b3" />
 
 ## Features
 
