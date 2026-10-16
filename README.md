@@ -1,37 +1,60 @@
 # MakeCode Arcade Snake Game
 
 ## Overview
-A classic Snake game created using Microsoft MakeCode Arcade during my sophomore year for AP Computer Science Principles (AP CSP). The project helped me practice programming fundamentals and learn how game mechanics work.
+
+A Snake game developed in Microsoft MakeCode Arcade during my sophomore year of high school for AP Computer Science Principles (AP CSP).
+
+The game builds on the classic Snake concept, with selectable map sizes, randomly spawned food, and a growing tail. This project was an early opportunity to explore game logic, player controls, collision detection, and tile-based environments.
+## Gameplay
+
+![Snake game gameplay] <img width="1849" height="889" alt="image" src="https://github.com/user-attachments/assets/32fa34c5-18ce-4026-b267-02317b8e05b3" />
 
 ## Features
-- Control the snake as it moves around the game screen.
-- Collect food to grow the snake.
-- Avoid collisions that end the game.
-- Practice classic arcade-style gameplay.
 
-*Note: Features listed above describe the intended Snake gameplay. Adjust this section if your implementation differs.*
+- **Three map sizes:** Choose between small, medium, and large maps.
+- **Snake movement:** Control the snake using directional inputs.
+- **Growing tail:** Collect food to increase the snake's length.
+- **Random food spawning:** Food appears at random locations across the map.
+- **Collision detection:** Hitting certain tiles or the snake's own tail ends the game.
+- **Win condition:** Reach the target tail count to win.
+
+## Controls
+
+Use the directional controls to move the snake around the map.
 
 ## Tools & Technologies
-- **Platform:** Microsoft MakeCode Arcade
-- **Programming:** TypeScript and MakeCode Blocks
-- **Course:** AP Computer Science Principles
+
+- Microsoft MakeCode Arcade
+- TypeScript
+- MakeCode Blocks
+- Arcade Grid extension
+- Zoom extension
 
 ## What I Learned
-- Applying programming fundamentals to build a playable game.
-- Using events and player input to control game behavior.
-- Organizing code and debugging game mechanics.
-- Turning a game idea into a working project.
 
-## Project Files
-This repository contains the game's source code, MakeCode Blocks representation, and supporting project assets.
-
-## Play or Edit the Game
-Open [Microsoft MakeCode Arcade](https://arcade.makecode.com/) to import the project and explore its code.
-
-To import this repository:
-1. Open MakeCode Arcade.
-2. Select **Import** and then **Import URL**.
-3. Paste this repository's GitHub URL.
+- Implementing player movement and directional restrictions.
+- Using tilemaps to create different game environments.
+- Applying collision detection and game-over conditions.
+- Managing arrays of sprites to track the snake's tail.
+- Using loops, functions, conditionals, and timers to control game behavior.
 
 ## Project Background
-This was one of my earlier programming projects, completed in high school. It represents an early step in my development as an engineer and programmer.
+
+This project was completed during my sophomore year as part of AP Computer Science Principles. It represents an early stage of my programming experience and helped build a foundation for later projects involving engineering, robotics, and software development.
+
+## Credits
+
+This project uses ideas and code made freely available through the following resources:
+
+- [Microsoft Arcade Grid](https://github.com/microsoft/arcade-grid)
+
+## Repository Contents
+
+The repository contains the game's source code, MakeCode Blocks representation, and supporting project assets.
+
+## How to Play or Edit
+
+1. Open [Microsoft MakeCode Arcade](https://arcade.makecode.com/).
+2. Select **Import** and then **Import URL**.
+3. Paste this repository's GitHub URL to load the project.
+
