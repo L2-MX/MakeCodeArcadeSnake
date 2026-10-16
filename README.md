@@ -1,31 +1,37 @@
+# MakeCode Arcade Snake Game
 
-> Open this page at [https://thehut-xbox.github.io/project/](https://thehut-xbox.github.io/project/)
+## Overview
+A classic Snake game created using Microsoft MakeCode Arcade during my sophomore year for AP Computer Science Principles (AP CSP). The project helped me practice programming fundamentals and learn how game mechanics work.
 
-## Use as Extension
+## Features
+- Control the snake as it moves around the game screen.
+- Collect food to grow the snake.
+- Avoid collisions that end the game.
+- Practice classic arcade-style gameplay.
 
-This repository can be added as an **extension** in MakeCode.
+*Note: Features listed above describe the intended Snake gameplay. Adjust this section if your implementation differs.*
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/thehut-xbox/project** and import
+## Tools & Technologies
+- **Platform:** Microsoft MakeCode Arcade
+- **Programming:** TypeScript and MakeCode Blocks
+- **Course:** AP Computer Science Principles
 
-## Edit this project ![Build status badge](https://github.com/thehut-xbox/project/workflows/MakeCode/badge.svg)
+## What I Learned
+- Applying programming fundamentals to build a playable game.
+- Using events and player input to control game behavior.
+- Organizing code and debugging game mechanics.
+- Turning a game idea into a working project.
 
-To edit this repository in MakeCode.
+## Project Files
+This repository contains the game's source code, MakeCode Blocks representation, and supporting project assets.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/thehut-xbox/project** and click import
+## Play or Edit the Game
+Open [Microsoft MakeCode Arcade](https://arcade.makecode.com/) to import the project and explore its code.
 
-## Blocks preview
+To import this repository:
+1. Open MakeCode Arcade.
+2. Select **Import** and then **Import URL**.
+3. Paste this repository's GitHub URL.
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/thehut-xbox/project/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+## Project Background
+This was one of my earlier programming projects, completed in high school. It represents an early step in my development as an engineer and programmer.
